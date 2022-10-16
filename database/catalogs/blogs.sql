@@ -1,0 +1,4 @@
+INSERT INTO `blogs` (`id`, `user_id`, `title`, `description`, `image`, `status`, `created_at`, `updated_at`) VALUES
+(1, 1, 'Explore The World', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ipsum dolor sit amet, consectetur.', 'explore_the_world_16129450524150.jpg', 1, '2020-11-04 00:19:49', '2021-02-10 02:17:32'),
+(2, 1, 'Find Good Places', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ipsum dolor sit amet, consectetur.', 'find_good_places_16128683246775.jpg', 1, '2021-02-09 04:58:44', '2021-02-09 04:58:44'),
+(3, 1, 'All Places In Town', 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ipsum dolor sit amet, consectetur.', 'all_places_in_town_16128683466792.jpg', 1, '2021-02-09 04:59:06', '2021-02-09 04:59:06');
